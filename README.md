@@ -61,8 +61,8 @@ A Flask-based web application that extracts the dominant colors from an uploaded
 
 ## Screenshots
 
-![Color Palette Generator Interface](path/to/screenshot.png)
-*Upload an image and extract its dominant colors.*
+![image](https://github.com/user-attachments/assets/d1c14839-b990-44a5-9f39-cf2eb8a64501)
+
 
 ## Dependencies
 - Flask: Web framework
